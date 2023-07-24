@@ -1,6 +1,6 @@
 # LittleLemon App
 
-<img src="https://github.com/samirpegado/banking-clone/blob/main/bankingclone.gif" width="200">
+<img src="https://github.com/samirpegado/littlelemon-interface/blob/main/littlelemon.gif" width="200">
 
 LittleLemon App is a delivery application developed during the Meta Android Developer course. The app's user interface was built using Jetpack Compose, a modern toolkit for building native Android UIs. Throughout the development, various Jetpack Compose features were explored to create a smooth and visually appealing user experience.
 
